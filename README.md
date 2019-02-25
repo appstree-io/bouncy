@@ -5,7 +5,7 @@ https://suavis-technologies.github.io/bouncy/
 
 # Desktop View
 
-![macbook_pro](https://user-images.githubusercontent.com/47558086/53331259-4cab4c80-3912-11e9-865a-c29cffda82af.jpg)
+![macbook_pro](https://user-images.githubusercontent.com/47558086/53331727-66995f00-3913-11e9-8cd8-831b33a84187.jpg)
 
 # Mobile View
 
