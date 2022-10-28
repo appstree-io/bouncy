@@ -1,7 +1,7 @@
 # bouncy
 
 
-https://suavis-technologies.github.io/bouncy/
+[CHECKOUT DEMO](https://appstree-io.github.io/bouncy/)
 
 # Desktop View
 
